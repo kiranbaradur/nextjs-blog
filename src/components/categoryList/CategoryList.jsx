@@ -19,7 +19,7 @@ const CategoryList = () => {
             width={32}
             className={styles.image}
           />
-          Hello
+          Style
         </Link>
       </div>
     </div>
